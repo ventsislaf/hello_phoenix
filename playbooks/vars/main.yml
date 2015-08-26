@@ -1,0 +1,4 @@
+---
+app_name: hello_phoenix
+repo_url: "git@github.com:ventsislaf/hello_phoenix.git"
+app_port: 3001
